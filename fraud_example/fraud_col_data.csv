@@ -1,0 +1,14 @@
+col_name,feature_id
+cc_num,F1
+birthdate,F2
+gender,F3
+live_city,F4
+live_country,F5
+category,F6
+amount,F7
+latitude,F8
+longitude,F9
+city,F10
+country,F11
+datetime,F12
+fraud_label,T1
